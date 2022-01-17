@@ -1,0 +1,15 @@
+[Accuracy, F1-score, Recall, Precision] for features: 3
+MLP, [0.8769, 0.0, 0.0, 1.0]
+[Accuracy, F1-score, Recall, Precision] for features: 6
+MLP, [0.875, 0.0, 0.0, 1.0]
+[Accuracy, F1-score, Recall, Precision] for features: 10
+MLP, [0.8771, 0.0019, 0.0, 0.1239]
+
+[Accuracy, F1-score, Recall, Precision] for features: 3
+Decision Tree, [0.884, 0.5443, 0.553, 0.525]
+[Accuracy, F1-score, Recall, Precision] for features: 6
+Decision Tree, [0.8829, 0.541, 0.5823, 0.5191]
+[Accuracy, F1-score, Recall, Precision] for features: 10
+Decision Tree, [0.8798, 0.5497, 0.576, 0.5104]
+
+[Accuracy, F1-score, Recall, Precision] for features: 3

@@ -1,0 +1,3 @@
+[Accuracy, F1-score, Recall, Precision] for features: 3
+Bagging Classifier, [0.8859, 0.5375, 0.533, 0.558]
+[Accuracy, F1-score, Recall, Precision] for features: 6

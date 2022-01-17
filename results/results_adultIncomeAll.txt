@@ -1,0 +1,8 @@
+[Accuracy, F1-score, Recall, Precision] for features: 3
+Naive Bayes, [0.876, nan, nan, nan]
+[Accuracy, F1-score, Recall, Precision] for features: 6
+Naive Bayes, [0.8779, nan, nan, nan]
+[Accuracy, F1-score, Recall, Precision] for features: 10
+Naive Bayes, [0.8785, nan, nan, nan]
+
+[Accuracy, F1-score, Recall, Precision] for features: 3

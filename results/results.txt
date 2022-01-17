@@ -1,0 +1,9 @@
+[Accuracy, F1-score, Recall, Precision] for features: 3
+ VotingClassifier (soft) Voting (hard), [0.8924, 0.465, 0.38, 0.6021]
+
+[Accuracy, F1-score, Recall, Precision] for features: 3
+ VotingClassifier (soft) Voting (soft), [0.8886, 0.3369, 0.2253, 0.6136]
+
+[Accuracy, F1-score, Recall, Precision] for features: 3
+ VotingClassifier (soft) Voting (soft - weights), [0.8924, 0.4668, 0.3739, 0.6014]
+

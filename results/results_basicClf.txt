@@ -1,0 +1,21 @@
+[Accuracy, F1-score, Recall, Precision] for features: 3
+Naive Bayes, [0.8777, 0.0, 0.0, 1.0]
+[Accuracy, F1-score, Recall, Precision] for features: 6
+Naive Bayes, [0.8777, 0.0, 0.0, 1.0]
+[Accuracy, F1-score, Recall, Precision] for features: 10
+Naive Bayes, [0.8774, 0.0, 0.0, 1.0]
+
+[Accuracy, F1-score, Recall, Precision] for features: 3
+Decision Tree, [0.8831, 0.5436, 0.566, 0.5236]
+[Accuracy, F1-score, Recall, Precision] for features: 6
+Decision Tree, [0.881, 0.5428, 0.5666, 0.516]
+[Accuracy, F1-score, Recall, Precision] for features: 10
+Decision Tree, [0.8817, 0.5418, 0.568, 0.5182]
+
+[Accuracy, F1-score, Recall, Precision] for features: 3
+KNeighbours, [0.8857, 0.5171, 0.4872, 0.5385]
+[Accuracy, F1-score, Recall, Precision] for features: 6
+KNeighbours, [0.8866, 0.5148, 0.4877, 0.5401]
+[Accuracy, F1-score, Recall, Precision] for features: 10
+KNeighbours, [0.8858, 0.5135, 0.4819, 0.5395]
+
