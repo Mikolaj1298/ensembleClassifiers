@@ -7,9 +7,9 @@ from sklearn.feature_selection import SelectKBest, chi2
 from sklearn.metrics import accuracy_score, f1_score, recall_score, precision_score
 from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import GaussianNB
+from sklearn.tree import DecisionTreeClassifier
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import LabelEncoder
-from sklearn.tree import DecisionTreeClassifier
 
 
 class ClfElement:
